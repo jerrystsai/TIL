@@ -15,12 +15,12 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Python
 
 - [Creating a defaultdict from a dict](python/creating-a-defaultdict-from-a-dict)
+- [See hidden characters in a string](see-hidden-characters-in-a-string.md)
 
 
 ## About
 
-I shamelessly stole this idea from [Josh Branchaud](https://github.com/jbranchaud/), 
-a post that made the front page on []Hacker News](https://news.ycombinator.com/). 
+I shamelessly stole this idea from [Josh Branchaud](https://github.com/jbranchaud/),
+a post that made the front page on []Hacker News](https://news.ycombinator.com/).
 He in turn shamelessly stole this ide from
 [thoughtbot/til](https://github.com/thoughtbot/til).
-
